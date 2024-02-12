@@ -1,3 +1,8 @@
+<!--divider-->
+<div align=center>
+   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
+</div>
+
 <!--Name-->
 <h1 align="center">
 Hi, I'm Shinaii 
@@ -8,35 +13,85 @@ Hi, I'm Shinaii
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E0BB8&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github!;I'm+From+Schleswig-Holstein%2C+Germany;Currently+i'm+a+retrainee+;in+application+development)](https://git.io/typing-svg)
 
 
-<!--Image-->
-<div>
-  <img align="right" width="40%" src="https://storage.shinaii.xyz/X08rnbMD.png">
+<h2 align="left">About me <img src="https://emojis.slackmojis.com/emojis/images/1643515273/12942/purple_fire.gif?1643515273" width="30"/>
+<!--divider-->
+<div align=center>
+   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
 </div>
+<!--Image-->
+<div align=left>
+   <img align="right" width=30% height=100% src="https://storage.shinaii.xyz/X08rnbMD.png" /></a>
+<!--Intro--> 
 
-<!--Header Name-->
-#  About me <img src="https://emojis.slackmojis.com/emojis/images/1643515273/12942/purple_fire.gif?1643515273" width="30"/>
-
-<!--Intro-->               
-<p asign=left>I am a Entry Level Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
+<h6 asign=left>I am a Entry Level Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
+  
 - 🌱 I’m currently learning C++
-- 💻 Visit my [Website](https://shinaii.xyz/) for more details about me.
-<!--End Intro-->
 
+- 🎃 Currently im a retrainee in application development
+
+- 🪂 Working on my own Gaming Network
+
+- 💀 My code is usually bad but im improving
+
+- 🐋 "It works on my System"
+
+- 💻 Visit my [Website](https://shinaii.xyz/) for more details about me.
+   
 <!--Profile Count Badge-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shinaii&color=blueviolet&style=for-the-badge&abbreviated=true" style="padding-right:20px;" />
 </p>
+</h6>
+</div>
+<!--End Intro-->
 
 
-<!--h1 without bottom border-->
-
-<summary><h2 style="display: inline-block">Technologies That I Know <img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"></img></h2></summary>
- </ul>
 <!--tech stack icons-->
+<h2 align="left">Tools and Skillset <img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"/>
+<!--divider-->
+<div align=center>
+   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
+</div>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,js,ts,java,kotlin,html,nodejs,bun,docker,github,mysql,cloudflare,git,gitlab,heroku,nginx,visualstudio,vscode,idea&perline=6" />
   </a>
 </p>
+
+<!--Stats & Trophies-->
+
+<h2 align="left">Stats & Trophies <img src="https://emojis.slackmojis.com/emojis/images/1643515294/13148/purple_gem.gif?1643515294" width="30"/>
+<!--divider-->
+<div align=center>
+   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
+</div>
+<p align="left">
+ <!--Stats-->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shinaii&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shinaii&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shinaii&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--Trophies-->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Shinaii&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+<!--divider-->
+<div align=center>
+   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
+</div>
