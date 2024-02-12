@@ -14,7 +14,9 @@ Hi, I'm Shinaii
 </div>
 
 <!--Header Name-->
-#  About me <img src="https://emojis.slackmojis.com/emojis/images/1643515273/12942/purple_fire.gif?1643515273" width="30"/>
+<ul align="center">
+    <summary><h2 style="display: inline-block">About me <img src="https://emojis.slackmojis.com/emojis/images/1643515273/12942/purple_fire.gif?1643515273" width="30"/></h2></summary>
+ </ul>
 
 <!--Intro-->               
 <p asign=left>I am a Entry Level Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
@@ -27,4 +29,15 @@ Hi, I'm Shinaii
 <!--Profile Count Badge-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shinaii&color=blueviolet&style=for-the-badge&abbreviated=true" style="padding-right:20px;" />
+</p>
+
+<!--h1 without bottom border-->
+<ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know <img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"></img></h2></summary>
+ </ul>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,js,ts,java,kotlin,html,nodejs,bun,docker,github,mysql,cloudflare,git,gitlab,heroku,nginx,visualstudio,vscode,idea&perline=14" />
+  </a>
 </p>
