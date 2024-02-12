@@ -17,7 +17,7 @@ Hi, I'm Shinaii
 #  About me <img src="https://emojis.slackmojis.com/emojis/images/1643515273/12942/purple_fire.gif?1643515273" width="30"/>
 
 <!--Intro-->               
-I am a Entry Level Full Stack Developer with a huge love for JavaScript, C++/C# , [Bun](https://bun.sh/) , Node.js, Docker and Linux.
+<p asign=left>I am a Entry Level Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
 - 🌱 I’m currently learning C++
