@@ -30,9 +30,9 @@
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
   
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ / C#
 
-- 🎃 Currently im a retrainee in application development
+- 🎃 Currently im a retrainee in Software Development
 
 - 🪂 Working on my own Gaming Network
 
