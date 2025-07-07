@@ -1,8 +1,3 @@
-<!--divider-->
-<div align=center>
-   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
-</div>
-
 <!--Name-->
 <h1 align="center">Hi, I'm Shinaii  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
@@ -10,17 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E0BB8&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github!;I'm+From+Schleswig-Holstein%2C+Germany;Currently+i'm+a+retrainee+;in+application+development)](https://git.io/typing-svg)
 
-<!--divider-->
-<div align=center>
-   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
-</div>
 
 
 <h2 align="left">About me <img src="https://emojis.slackmojis.com/emojis/images/1643515273/12942/purple_fire.gif?1643515273" width="30"/>
-<!--divider-->
-<div align=center>
-   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
-</div>
+
 <!--Image-->
 <div align=left>
    <img align="right" width=30% height=100% src="https://storage.shinaii.xyz/X08rnbMD.png" /></a>
@@ -53,10 +41,6 @@
 
 <!--tech stack icons-->
 <h2 align="left">Tools and Skillset <img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"/>
-<!--divider-->
-<div align=center>
-   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
-</div>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,js,ts,java,kotlin,html,nodejs,bun,docker,github,mysql,cloudflare,git,gitlab,heroku,nginx,visualstudio,vscode,idea&perline=11" />
@@ -66,10 +50,7 @@
 <!--Stats & Trophies-->
 
 <h2 align="left">Stats & Trophies <img src="https://emojis.slackmojis.com/emojis/images/1643515294/13148/purple_gem.gif?1643515294" width="30"/>
-<!--divider-->
-<div align=center>
-   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
-</div>
+
 <p align="left">
  <!--Stats-->
 <table align="center">
@@ -94,8 +75,3 @@
     </a>
 </div>
 </p>
-
-<!--divider-->
-<div align=center>
-   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
-</div>
