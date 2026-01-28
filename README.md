@@ -14,7 +14,7 @@
    <img align="right" width=30% src="https://storage.shinaii.xyz/X08rnbMD.png" /></a>
 <!--Intro--> 
 
-<h6 asign=left>I Have a CS Expert degree and im a Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
+<h6 asign=left>I have a CS Expert degree and im a Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
 
