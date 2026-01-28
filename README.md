@@ -18,6 +18,8 @@
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
 
+- 🚀 Got my CS Expert degree in 2026
+
 - 🔥 Always working on something
 
 - 🪂 Working on my own Gaming Network
