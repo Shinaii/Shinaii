@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 <!--SVG-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E0BB8&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github!;I'm+From+Schleswig-Holstein%2C+Germany;Currently+i'm+a+retrainee+;in+application+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E0BB8&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github!;I'm+From+Schleswig-Holstein%2C+Germany)](https://git.io/typing-svg)
 
 
 
@@ -14,13 +14,9 @@
    <img align="right" width=30% src="https://storage.shinaii.xyz/X08rnbMD.png" /></a>
 <!--Intro--> 
 
-<h6 asign=left>I am an Entry Level Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
+<h6 asign=left>I Have a CS Expert degree and im a Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
-  
-- 🌱 I’m currently learning C++ / C#
-
-- 🎃 Currently im a retrainee in Software Development
 
 - 🪂 Working on my own Gaming Network
 
