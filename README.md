@@ -18,6 +18,8 @@
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
 
+- 🔥 Always working on something
+
 - 🪂 Working on my own Gaming Network
 
 - 💀 My code is usually bad but im improving
