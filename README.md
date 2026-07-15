@@ -9,9 +9,6 @@
 
 <h2 align="left">About me <img src="https://emojis.slackmojis.com/emojis/images/1643515273/12942/purple_fire.gif?1643515273" width="30"/>
 
-<!--Image-->
-<div align=left>
-   <img align="right" width=30% src="https://storage.shinaii.xyz/X08rnbMD.png" /></a>
 <!--Intro--> 
 
 <h6 asign=left>I have a CS Expert degree and im a Full Stack Developer with a huge love for JavaScript, C++/C# , Bun , Node.js, Docker and Linux. </p>
@@ -40,38 +37,8 @@
 
 
 <!--tech stack icons-->
-<h2 align="left">Tools and Skillset <img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"/>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,js,ts,java,kotlin,html,nodejs,bun,docker,github,mysql,cloudflare,git,gitlab,heroku,nginx,visualstudio,vscode,idea&perline=11" />
   </a>
-</p>
-
-<!--Stats & Trophies-->
-
-<h2 align="left">Stats & Trophies <img src="https://emojis.slackmojis.com/emojis/images/1643515294/13148/purple_gem.gif?1643515294" width="30"/>
-
-<p align="left">
- <!--Stats-->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shinaii&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shinaii&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shinaii&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--Trophies-->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Shinaii&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 </p>
